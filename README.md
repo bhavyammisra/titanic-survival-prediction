@@ -140,41 +140,13 @@ Random Forest outperformed Logistic Regression by approximately **2.8 percentage
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](Images/feature_importance.png)
 
 ---
 
 ### Survival Rate by Sex and Passenger Class
 
-![Survival by Sex and Class](images/survival_by_sex_class.png)
-
----
-
-## 🚀 How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/bhavyammisra/titanic-survival-prediction.git
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Launch Jupyter Notebook:
-
-```bash
-jupyter lab
-```
-
-Open:
-
-```
-notebook/Titanic_Survival_Prediction.ipynb
-```
+![Survival by Sex and Class](Images/survival_by_sex_class.png)
 
 ---
 
