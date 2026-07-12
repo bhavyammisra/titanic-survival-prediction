@@ -139,13 +139,13 @@ Random Forest outperformed Logistic Regression by approximately **2.8 percentage
 
 ### Feature Importance
 
-![Feature Importance](Images/feature_importance.png)
+![Feature Importance](images/feature_importance.png)
 
 ---
 
 ### Survival Rate by Sex and Passenger Class
 
-![Survival by Sex and Class](Images/survival_by_sex_class.png)
+![Survival by Sex and Class](images/survival_by_sex_class.png)
 
 ---
 
