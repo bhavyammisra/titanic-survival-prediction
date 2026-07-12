@@ -28,14 +28,9 @@ The workflow includes:
 
 ## 📊 Dataset
 
-Dataset: **Titanic - Machine Learning from Disaster**
+## Dataset
 
-Files used:
-
-- train.csv
-- test.csv
-- gender_submission.csv
-
+The dataset can be downloaded from Kaggle's Titanic competition.
 ---
 
 ## 🛠 Tech Stack
