@@ -28,9 +28,7 @@ The workflow includes:
 
 ## 📊 Dataset
 
-## Dataset
-
-## The dataset can be downloaded from Kaggle's Titanic competition.
+The dataset can be downloaded from Kaggle's Titanic competition.
 ---
 
 ## 🛠 Tech Stack
